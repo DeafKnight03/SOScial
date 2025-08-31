@@ -1,4 +1,4 @@
-# my_app
+# SOScial
 
 SOScial
 
