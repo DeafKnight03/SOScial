@@ -23,7 +23,7 @@ l'evento è stato risolto.
 Il sistema deve garantire trasparenza e tempestività, coinvolgendo attivamente
 i cittadini nella gestione delle informazioni urbane.
 
-Per ulteriori info consultare il documento finale di progetto 
+Per ulteriori info consultare il documento finale di progetto contenuto nella cartella principale
 
 ![Preview](previewImgs/1.png)
 
